@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>72AB09ED-CE45-45A9-B311-64FA77814E78</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Mis Notas</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DCF133446A8867DE56A9D7B52F1B387B4A9DB313</key>
+		<string>https://bitbucket.org/Randru/apps.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Mis Notas/Mis Notas.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DCF133446A8867DE56A9D7B52F1B387B4A9DB313</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/Randru/apps.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DCF133446A8867DE56A9D7B52F1B387B4A9DB313</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DCF133446A8867DE56A9D7B52F1B387B4A9DB313</string>
+			<key>IDESourceControlWCCName</key>
+			<string>apps</string>
+		</dict>
+	</array>
+</dict>
+</plist>
